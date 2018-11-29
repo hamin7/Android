@@ -1,0 +1,18 @@
+동기 vs 비동기
+
+도메인 url 시퀀스 index offset
+
+http://monotype.tk/forif/default?index=4&offset=2
+http://monotype.tk/forif/default?index=1&offset=6
+
+node js는 잘 뻗기 때문에 특수문자 넣으면 안됌
+
+picUrl==pictureUrl
+
+DTO
+
+바인딩 작업 gson converter
+
+http://www.jsonschema2pojo.org/
+
+get post
